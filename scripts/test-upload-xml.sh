@@ -1,0 +1,2 @@
+curl -k --header "Authorization: 7fRCDAD3cv65NhTW3nvPlV68YtlfA59l3ZHfnpIL" --header "Accept: application/xml" --header "Content-Type: application/xml" --data "@test-file-01.xml" -X POST https://aaindex.com/events/upload_stix
+#curl -i -H "Accept: application/json" -H "content-type: application/json" -H "Authorization: YOUR API KEY" --data "@event.json" -X POST http://10.50.13.60/events
